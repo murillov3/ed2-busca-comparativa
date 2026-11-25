@@ -1,6 +1,7 @@
 # Relatório: Comparativo de Estruturas de Busca
 
 Grupo: _osYaKuza_
+
 Copiem os valores da coluna **Comparacoes/busca** (e dos Detalhes, quando pedido). Os tempos são opcionais, porque variam de um computador para outro.
 
 ## E1. Crescimento de N (t = 3, alfa = 1)
