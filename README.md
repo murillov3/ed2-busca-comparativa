@@ -7,15 +7,6 @@
 
 ## Integrantes
 
-**Nome do time:** Elas e Ele
-
-| Nome | Usuário do GitHub |
-| --- | --- |
-| Mateus Batista | Mateuz971 |
-| Raika Maciel | raikamdias-lgtm |
-| Raika Silva | K9s45vhk5p-hub |
-| Victória Batalha | vivibatalha |
-|  |  |
 **Nome do time:**Os Yakuza
 | Nome | Usuário do GitHub |
 | --- | --- |
@@ -25,7 +16,7 @@
 | Pedro rennek |  |
 | Reiner|  |
 | Luiz moçanbite| |
-| Murilo | |
+| Murillo | |
 | Lucas de paula| |
 
 
