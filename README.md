@@ -7,7 +7,7 @@
 
 ## Integrantes
 
-**Nome do time:** ____________________
+**Nome do time:** ___OSyaKuza_________________
 
 | Nome | Usuário do GitHub |
 | --- | --- |
