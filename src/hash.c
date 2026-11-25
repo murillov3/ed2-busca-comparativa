@@ -19,7 +19,7 @@ Hash hash_cria(int m) {
 
 int hash_funcao(const Hashh, int chave) {
     int r = chave % h->m;
-    return (r < 0) ? r + h->m : r; /* Garante índice positivo mesmo se a chave for negativa /
+    return (r < 0) ? r + h->m : r; 
 }
 
 void hash_insere(Hashh, int chave, int pos) {
